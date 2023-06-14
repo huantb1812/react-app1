@@ -1,0 +1,15 @@
+section{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    background-color: transparent;
+}
+section a{
+    padding: 8px 15px;
+    border-radius: 2px;
+}
+section a:hover{
+    cursor: pointer;
+    background-color: rgba(129, 154, 228, 0.532);
+
+}
